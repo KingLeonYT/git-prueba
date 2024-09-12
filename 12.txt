@@ -3,3 +3,13 @@ $ git config --global user.name "Akronixx"
 
 $ git config --global user.email "josectp12yt@gmail.com"
 
+C:\Users\UPN\Downloads\examen>git init
+
+C:\Users\UPN\Downloads\examen>git add .
+
+C:\Users\UPN\Downloads\examen>git commit -m "texto de git"
+
+C:\Users\UPN\Downloads\examen>git remote add origin https://github.com/Akronixx/git-examen.git
+
+C:\Users\UPN\Downloads\examen>git push origin master
+
