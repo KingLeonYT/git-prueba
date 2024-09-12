@@ -1,14 +1,9 @@
 
-$ git config --global user.name "Akronixx"
-
-$ git config --global user.email "josectp12yt@gmail.com"
-
+git config --global user.name "Akronixx"
+git config --global user.email "josectp12yt@gmail.com"
 git init
-
 git add .
-
 git commit -m "texto de git"
 git remote add origin https://github.com/Akronixx/git-examen.git
-
 git push origin master
 
